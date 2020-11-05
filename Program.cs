@@ -4,14 +4,10 @@ namespace Primeiralista
 {
     class Exercicios
     {
-    //primeira lista 
-         static void Main(string[] args)
-        {
-           Exercicio18();
-        }
+  
 
    
-         static void Exercicio01(string[] args)
+         static void Exercicio01()
         {
 			//Crie um programa que imprima:
            //Os números de 1 a 10 de forma crescente
